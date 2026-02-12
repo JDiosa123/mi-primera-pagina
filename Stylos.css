@@ -1,0 +1,19 @@
+
+body{
+    text-align: center;
+}
+
+h1{
+    color: red;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h2{
+    color: red;
+    font-family:'Times New Roman', Times, serif;
+}
+
+button{
+    color: white;
+    background-color: black;
+}
